@@ -5,3 +5,5 @@ Detta är ett testprojekt för GitHub
 Filen tillhör en föreläsningsserie om git
 
 Badankor är också fina.
+
+Kuxe är sämst
