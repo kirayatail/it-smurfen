@@ -2,7 +2,7 @@
 
 Detta är ett testprojekt för GitHub
 
-Aspa allt!
+Aspa digIT!
 
 Filen tillhör en föreläsningsserie om git
 
