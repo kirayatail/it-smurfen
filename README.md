@@ -1,6 +1,6 @@
 # IT-smurfen, Ett git-projekt
 
-Detta är ett testprojekt för GitHub
+Detta är ett testprojekt för IT-sektionen
 
 Aspa digIT!
 
