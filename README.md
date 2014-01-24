@@ -4,4 +4,4 @@ Detta är ett testprojekt för GitHub
 
 Filen tillhör en föreläsningsserie om git
 
-Kuxe har snyggt skägg
+Kuxe har inte så snyggt skägg
